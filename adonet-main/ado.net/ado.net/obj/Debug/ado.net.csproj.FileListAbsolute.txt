@@ -1,0 +1,12 @@
+C:\Users\103A-8\source\repos\ado.net\ado.net\bin\Debug\ado.net.exe.config
+C:\Users\103A-8\source\repos\ado.net\ado.net\bin\Debug\ado.net.exe
+C:\Users\103A-8\source\repos\ado.net\ado.net\bin\Debug\ado.net.pdb
+C:\Users\103A-8\source\repos\ado.net\ado.net\obj\Debug\ado.net.csproj.AssemblyReference.cache
+C:\Users\103A-8\source\repos\ado.net\ado.net\obj\Debug\ado.net.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-8\source\repos\ado.net\ado.net\obj\Debug\ado.net.Form1.resources
+C:\Users\103A-8\source\repos\ado.net\ado.net\obj\Debug\ado.net.kategori.resources
+C:\Users\103A-8\source\repos\ado.net\ado.net\obj\Debug\ado.net.Properties.Resources.resources
+C:\Users\103A-8\source\repos\ado.net\ado.net\obj\Debug\ado.net.csproj.GenerateResource.cache
+C:\Users\103A-8\source\repos\ado.net\ado.net\obj\Debug\ado.net.csproj.CoreCompileInputs.cache
+C:\Users\103A-8\source\repos\ado.net\ado.net\obj\Debug\ado.net.exe
+C:\Users\103A-8\source\repos\ado.net\ado.net\obj\Debug\ado.net.pdb
