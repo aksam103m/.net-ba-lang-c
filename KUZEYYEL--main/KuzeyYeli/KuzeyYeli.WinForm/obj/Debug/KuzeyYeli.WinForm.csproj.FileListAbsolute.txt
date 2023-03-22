@@ -1,0 +1,14 @@
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\bin\Debug\KuzeyYeli.WinForm.exe.config
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\bin\Debug\KuzeyYeli.WinForm.exe
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\bin\Debug\KuzeyYeli.WinForm.pdb
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\bin\Debug\KuzeyYeli.ORM.dll
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\bin\Debug\KuzeyYeli.ORM.pdb
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.csproj.AssemblyReference.cache
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.Form1.resources
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.Properties.Resources.resources
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.csproj.GenerateResource.cache
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.csproj.CopyComplete
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.exe
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.pdb

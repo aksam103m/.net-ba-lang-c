@@ -1,0 +1,6 @@
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.dll
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.pdb
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.csproj.AssemblyReference.cache
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.csproj.CoreCompileInputs.cache
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.dll
+C:\Users\103A-8\source\repos\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.pdb
