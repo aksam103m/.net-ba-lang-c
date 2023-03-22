@@ -1,0 +1,12 @@
+C:\Users\103A-8\source\repos\adeonetprocedureuygulama\adeonetprocedureuygulama\bin\Debug\adeonetprocedureuygulama.exe.config
+C:\Users\103A-8\source\repos\adeonetprocedureuygulama\adeonetprocedureuygulama\bin\Debug\adeonetprocedureuygulama.exe
+C:\Users\103A-8\source\repos\adeonetprocedureuygulama\adeonetprocedureuygulama\bin\Debug\adeonetprocedureuygulama.pdb
+C:\Users\103A-8\source\repos\adeonetprocedureuygulama\adeonetprocedureuygulama\obj\Debug\adeonetprocedureuygulama.csproj.AssemblyReference.cache
+C:\Users\103A-8\source\repos\adeonetprocedureuygulama\adeonetprocedureuygulama\obj\Debug\adeonetprocedureuygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-8\source\repos\adeonetprocedureuygulama\adeonetprocedureuygulama\obj\Debug\adeonetprocedureuygulama.Form1.resources
+C:\Users\103A-8\source\repos\adeonetprocedureuygulama\adeonetprocedureuygulama\obj\Debug\adeonetprocedureuygulama.kategoriler.resources
+C:\Users\103A-8\source\repos\adeonetprocedureuygulama\adeonetprocedureuygulama\obj\Debug\adeonetprocedureuygulama.Properties.Resources.resources
+C:\Users\103A-8\source\repos\adeonetprocedureuygulama\adeonetprocedureuygulama\obj\Debug\adeonetprocedureuygulama.csproj.GenerateResource.cache
+C:\Users\103A-8\source\repos\adeonetprocedureuygulama\adeonetprocedureuygulama\obj\Debug\adeonetprocedureuygulama.csproj.CoreCompileInputs.cache
+C:\Users\103A-8\source\repos\adeonetprocedureuygulama\adeonetprocedureuygulama\obj\Debug\adeonetprocedureuygulama.exe
+C:\Users\103A-8\source\repos\adeonetprocedureuygulama\adeonetprocedureuygulama\obj\Debug\adeonetprocedureuygulama.pdb
